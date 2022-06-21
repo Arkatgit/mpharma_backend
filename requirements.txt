@@ -10,7 +10,7 @@ idna==2.8
 itypes==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.1
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 psycopg2==2.8.1
 PyJWT==1.7.1
